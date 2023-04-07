@@ -1,4 +1,3 @@
-Do not Smoke
 Master Python and JS
 Cheer Che Tonix
 Modify Todo
@@ -8,3 +7,4 @@ Read The Outsider
 Write a novel
 Write a blog
 Love Her
+Read The Words
